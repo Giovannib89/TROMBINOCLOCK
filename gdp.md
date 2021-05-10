@@ -41,3 +41,26 @@ On traduit la demande en fonctionnalités atomiques (granulaires) implémentable
 visiteur : un utilisateur non enregistré ou non loggué  
 étudiant : un utilisateur connecté  
 administrateur : un utilisateur connecté avec des droits supplémentaires  
+
+
+## étape 2 : organisation des tâches et mise en place d'un kanban
+
+## étape 3 : wireframes
+
+- papier crayon
+- balsamiq
+- paint
+- app.diagrams.net
+- wireframe.cc
+- ...
+
+
+### page d'accueil
+
+![Wireframe page d'accueil](./ressource/accueil.jpg)
+
+
+### Liste des promos
+
+![Wireframe page d'accueil](./ressources/promos.jpg)
+
